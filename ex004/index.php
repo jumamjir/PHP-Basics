@@ -1,10 +1,9 @@
 <?php 
+$nome = "João Pedro";
+$sobrenome = "Madeira";
+echo "$nome $sobrenome \u{1F596}";
+echo "$nome \"Silva\" $sobrenome";
 
-$sobrenome = "Silva"; 
-$idade = 34;
-$peso = 85.9;
-$casado = true;
- 
 ?> 
 
 
